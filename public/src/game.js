@@ -1,6 +1,4 @@
 
-//import { withExactArgs } from "sinon/lib/sinon/mock-expectation"
-
 // Initialize the Phaser Game object and set default game window size
 export const game2 = new Phaser.Game(800, 600, Phaser.AUTO, '', {
   init: function() {},
